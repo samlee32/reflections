@@ -1,0 +1,2 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It'll list down the plus and minus signs which shows that what has been deleted and added between the two files.
