@@ -1,0 +1,5 @@
+What happens when you initialise a repository? Why do you need to do it?
+It’s used to tell Git to build a new repository and later track the files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It offers a temporary storage area
